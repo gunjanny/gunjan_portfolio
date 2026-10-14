@@ -142,19 +142,19 @@ export const projects = [
   },
   {
     id: "ai-website",
-    title: "AI Website Project",
+    title: "Gunjan Information Assistant",
     category: "Artificial Intelligence",
-    shortDescription: "An intelligent web application leveraging Generative AI to provide smart interactive assistance and automated insights.",
-    fullDescription: "An AI-powered web platform designed to demonstrate the real-world utility of modern Large Language Models. Featuring a clean conversational user interface, prompt optimization tools, and instant response rendering.",
-    technologies: ["Python", "Generative AI", "React", "Tailwind CSS", "REST APIs"],
+    shortDescription: "An intelligent conversational AI agent built with Botpress to answer questions about my skills, background, education at JECRC University, and projects in real time.",
+    fullDescription: "A custom-trained knowledge AI agent built with Botpress and Large Language Models. Trained directly on my academic journey, technical skills in Web Development & AI, and projects to offer interactive 24/7 conversational answers to recruiters and portfolio visitors.",
+    technologies: ["Botpress", "Generative AI", "NLP", "JavaScript", "REST APIs"],
     liveUrl: "#",
     githubUrl: "https://github.com/gunjanny",
     featured: true,
     highlights: [
-      "Natural language processing and intelligent prompt responses",
-      "Sleek and intuitive conversational chat & dashboard interface",
-      "Integrated AI workflow connecting frontend to backend model APIs",
-      "Designed with privacy, speed, and student-focused utility in mind"
+      "Trained on personal knowledge base, B.Tech coursework, and project details",
+      "Interactive conversational webchat widget seamlessly embedded on portfolio",
+      "Real-time dynamic natural language responses powered by LLMs",
+      "Custom personality designed to provide clear, helpful information to visitors"
     ]
   },
   {
